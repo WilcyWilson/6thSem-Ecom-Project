@@ -10,9 +10,13 @@ Twitter Analytics etc. Students can also implement basic recommendation system i
 commerce systems.
 
 -Categories of Product
+
 -Shopping Carts
+
 -Payment Gateways
+
 -SEO optimization using Google Analytics,Facebook Analytics etc.
+
 -Basic Recommendation System
 
 ## Django
