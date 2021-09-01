@@ -4,6 +4,8 @@
 
 pip install virtualenv virtualenvwrapper
 
+https://virtualenvwrapper.readthedocs.io/en/latest/install.html
+
 ## Installing Oscar
 
 pip install oscar
@@ -29,4 +31,5 @@ lsvirtualenv
 [wilson@wilson-pc .virtualenvs]$ source oscar/bin/activate
 
 https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/
+
 
