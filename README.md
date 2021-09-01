@@ -15,4 +15,4 @@ user email: wakanda@gmail.com
 password: Pandaman
 
 ## Superuser web interface
-<img src="workflow.png" width="400" height="270"> 
+<img src="superuser.png" width="400" height="270"> 
