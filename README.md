@@ -8,7 +8,7 @@ https://virtualenvwrapper.readthedocs.io/en/latest/install.html
 
 ## Installing Oscar
 
-pip install oscar
+pip install django-oscar
 
 ## Create django admin to create project
 
