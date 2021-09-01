@@ -1,5 +1,3 @@
-# Installing Django-Oscar
-
 ## Creating admin page (superuser)
 
 python manage.py createsuperuser
