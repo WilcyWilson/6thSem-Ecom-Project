@@ -24,6 +24,9 @@ python manage.py migrate
 
 python manage.py runserver
 
+## Creating virtualenv
+mkvirtualenv [Name of virtualenv]
+
 ## List virtaulenv
 lsvirtualenv
 
