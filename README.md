@@ -1,35 +1,18 @@
 # Installing Django-Oscar
 
-## Installing virtualenv
+## Creating admin page (superuser)
 
-pip install virtualenv virtualenvwrapper
+python manage.py createsuperuser
 
-https://virtualenvwrapper.readthedocs.io/en/latest/install.html
+For superuser:
 
-## Installing Oscar
+email: wilsonshresthaapps@gmail.com
+password: wilcy12345
 
-pip install oscar
+For normal user:
 
-## Create django admin to create project
+user email: wakanda@gmail.com
+password: Pandaman
 
-django-admin startproject my_site
-
-## Changing settings.py file to integrate django oscar to our system
-
-https://django-oscar.readthedocs.io/en/3.0.0/internals/getting_started.html
-
-python manage.py makemigrations
-
-python manage.py migrate
-
-python manage.py runserver
-
-## List virtaulenv
-lsvirtualenv
-
-## Activating virtualenv
-[wilson@wilson-pc .virtualenvs]$ source oscar/bin/activate
-
-https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/
-
-
+## Superuser web interface
+<img src="workflow.png" width="400" height="270"> 
