@@ -33,21 +33,33 @@ https://docs.djangoproject.com/en/3.2/ref/django-admin/
 ## Oscar
 Oscar is an e-commerce framework for Django designed for building domain-driven applications. It is structured so that the core business objects can be customised to suit the domain at hand. In this way, your application can accurately model its domain, making feature development and maintenance much easier.
 
-# Installing virtualenv
+## Installing virtualenv
 
 pip install virtualenv virtualenvwrapper
 
-# Installing Oscar
+## Installing Oscar
 
 pip install oscar
 
-# Create django admin to create project
+## Create django admin to create project
 
 django-admin startproject my_site
 
-# Changing settings.py file to integrate django oscar to our system
+## Changing settings.py file to integrate django oscar to our system
 
 https://django-oscar.readthedocs.io/en/3.0.0/internals/getting_started.html
+
 python manage.py makemigrations
+
 python manage.py migrate
+
 python manage.py runserver
+
+## List virtaulenv
+lsvirtualenv
+
+## Activating virtualenv
+[wilson@wilson-pc .virtualenvs]$ source oscar/bin/activate
+
+https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/
+
