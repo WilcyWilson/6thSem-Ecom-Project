@@ -10,6 +10,8 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 
+import os
+location = lambda x: os.path.join(os.path.dirname(os.path.realpath(__file__)), '..', x)
 from pathlib import Path
 from oscar.defaults import *
 
@@ -99,7 +101,9 @@ ROOT_URLCONF = 'my_site.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [
+            location('templates'),
+        ],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
