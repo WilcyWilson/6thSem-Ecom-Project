@@ -14,3 +14,7 @@ A Django template is a text document or a Python string marked-up using the Djan
 A template is rendered with a context. Rendering replaces variables with their values, which are looked up in the context, and executes tags. Everything else is output as is.
 
 The syntax of the Django template language involves four constructs.
+
+## Overriding Django Oscar Template
+
+https://django-oscar.readthedocs.io/en/latest/howto/how_to_customise_templates.html
