@@ -5,7 +5,7 @@ python manage.py createsuperuser
 For superuser:
 
 email: wilsonshresthaapps@gmail.com
-password: wilcy12345
+password: Wilcy12345
 
 For normal user:
 
