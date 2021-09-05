@@ -34,7 +34,7 @@ https://docs.djangoproject.com/en/3.2/howto/static-files/
 ## Category Image
 
 ## Superuser web interface
-<img src="categoryImage.png" width="800" height="500"> 
+<img src="CategoryImage.png" width="800" height="500"> 
 
 
 
