@@ -27,5 +27,9 @@ pip freeze > requirements.txt
 
 pip install -r requirement.txt
 
+## Managing Static and Media Files
+
+https://docs.djangoproject.com/en/3.2/howto/static-files/
+
 
 
