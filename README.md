@@ -31,5 +31,10 @@ pip install -r requirement.txt
 
 https://docs.djangoproject.com/en/3.2/howto/static-files/
 
+## Category Image
+
+## Superuser web interface
+<img src="categoryImage.png" width="800" height="500"> 
+
 
 
