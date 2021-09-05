@@ -18,3 +18,14 @@ The syntax of the Django template language involves four constructs.
 ## Overriding Django Oscar Template
 
 https://django-oscar.readthedocs.io/en/latest/howto/how_to_customise_templates.html
+
+## Generating requirements.txt so that you can install all the required pacakages for the project in one go in a new virtualenv or PC or new developer.
+
+pip freeze > requirements.txt
+
+## Installing all the pacakges listed in requirements.txt in one go in new virtualenv
+
+pip install -r requirement.txt
+
+
+
