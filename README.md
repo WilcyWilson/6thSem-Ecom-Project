@@ -9,15 +9,15 @@ for e-comerce optimization includes SEO tools like Google Analytics, Facebook An
 Twitter Analytics etc. Students can also implement basic recommendation system in the e-
 commerce systems.
 
--Categories of Product
+-Categories of Product :heavy_check_mark:
 
--Shopping Carts
+-Shopping Carts :heavy_check_mark:
 
--Payment Gateways
+-Payment Gateways :x:
 
--SEO optimization using Google Analytics,Facebook Analytics etc.
+-SEO optimization using Google Analytics,Facebook Analytics etc. :x:
 
--Basic Recommendation System
+-Basic Recommendation System :x:
 
 ## Django
 Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
