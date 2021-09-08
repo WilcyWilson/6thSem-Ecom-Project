@@ -81,6 +81,7 @@ INSTALLED_APPS = [
     'treebeard',
     'django_tables2',
     'sorl.thumbnail',
+    'paypal'
 ]
 
 SITE_ID = 1
@@ -195,3 +196,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 MEDIA_URL = '/media/'
 
 MEDIA_ROOT = os.path.join(BASE_DIR,'media')
+
+PAYPAL_API_USERNAME = 'sb-xshmk7570115_api1.business.example.com'
+PAYPAL_API_PASSWORD = 'RSCRD356GZQLQVYK'
+PAYPAL_API_SIGNATURE = 'AXaxeV-hEd6yuVU8OQ5D3iEeG8HhA09-QLxuWCTNArw4lJrvwmC9uiNC'
