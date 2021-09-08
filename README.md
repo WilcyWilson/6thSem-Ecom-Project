@@ -1,5 +1,11 @@
 # Setting Up Payment Gateway
 
+## To configure views and models
+
+http://127.0.0.1:8000/admin
+
+Add a country for shipping address otherwise won't work.
+
 ## install dhango-oscar-paypal
 
 pip install django-oscar-paypal
