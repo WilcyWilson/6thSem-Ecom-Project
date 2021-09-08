@@ -1,11 +1,16 @@
-# Add Products,Categories
+# Setting Up Payment Gateway
 
-## Category Image
+## django-oscar-paypal docs
 
-<img src="CategoryImage.png" width="800" height="500"> 
+https://django-oscar-paypal.readthedocs.io/en/latest/
 
-## Reference Website
+## Paypal Sandbox account details
 
-https://www.microcenter.com/
+First create a normal paypal account. Then go to the link.
 
+https://developer.paypal.com/developer/accounts/
+
+<img src="SandboxAccount.png" width="800" height="500"> 
+
+Click on edit for above business sandbox account. Copy API credentials to put it in settings.py
 
