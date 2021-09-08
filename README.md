@@ -1,8 +1,14 @@
 # Setting Up Payment Gateway
 
+## install dhango-oscar-paypal
+
+pip install django-oscar-paypal
+
 ## django-oscar-paypal docs
 
 https://django-oscar-paypal.readthedocs.io/en/latest/
+
+https://django-oscar-paypal.readthedocs.io/en/latest/express.html#getting-started
 
 ## Paypal Sandbox account details
 
