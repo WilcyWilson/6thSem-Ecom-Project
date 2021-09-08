@@ -13,7 +13,7 @@ commerce systems.
 
 -Shopping Carts :heavy_check_mark:
 
--Payment Gateways :x:
+-Payment Gateways :heavy_check_mark:
 
 -SEO optimization using Google Analytics,Facebook Analytics etc. :x:
 
