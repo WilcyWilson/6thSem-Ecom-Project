@@ -1,5 +1,13 @@
 # Setting Up Payment Gateway
 
+## Final Website screenshots
+
+![Page1](page1.png)
+
+![Page2](page2.png)
+
+![Page3](page3.png)
+
 ## To configure views and models
 
 http://127.0.0.1:8000/admin
